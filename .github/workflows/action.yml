@@ -13,5 +13,5 @@ jobs:
           product-id: 209371
           schedule-id: 100004
           seat-id: 1_0
-          slack-incoming-webhook-url: ${{ secrets.SLACK_WEBHOOK_URL }}
+          slack-incoming-webhook-url: 'https://hooks.slack.com/services/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'
           message: '<@U4CF18RKL> 티켓사세요'
